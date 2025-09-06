@@ -1,0 +1,58 @@
+[
+  {
+    "id": "osm-node-910451189",
+    "name": "Ashram",
+    "type": "Wellness",
+    "category": "Other",
+    "description": "A local wellness spot",
+    "benefits": "Stress reduction, mindfulness, cultural immersion",
+    "duration": "1 hour",
+    "image": "https://images.unsplash.com/photo-1554140316-f3966ee6d7dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDExMTN8MHwxfHNlYXJjaHwxfHxPdGhlciUyMERlbGhpJTIwSW5kaWF8ZW58MHx8fHwxNzU3MTU0NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "lat": 28.5715054,
+    "lon": 77.2588482,
+    "location": "Delhi",
+    "_category": "Other"
+  },
+  {
+    "id": "osm-node-549750157",
+    "name": "Ashram Flyover",
+    "type": "Wellness",
+    "category": "Other",
+    "description": "A local wellness spot",
+    "benefits": "Stress reduction, mindfulness, cultural immersion",
+    "duration": "30 mins",
+    "image": "https://images.unsplash.com/photo-1554140316-f3966ee6d7dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MDExMTN8MHwxfHNlYXJjaHwxfHxPdGhlciUyMERlbGhpJTIwSW5kaWF8ZW58MHx8fHwxNzU3MTU0NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "lat": 28.5724639,
+    "lon": 77.2583378,
+    "location": "Delhi",
+    "_category": "Other"
+  },
+  {
+    "id": "osm-node-342841806",
+    "name": "Vrinda Ayurveda Beach Resort",
+    "type": "Wellness",
+    "category": "Other",
+    "description": "A local wellness spot",
+    "benefits": "Stress reduction, mindfulness, cultural immersion",
+    "duration": "30 mins",
+    "image": "https://pixabay.com/get/g9f1226f55b4c460dbc93c1bc538aec9ed9e7ea7de8f5d01b7bacc24ef05cfac7ec864f237ceb131fbc7e1a99f164816676283e596da9bf59b8155a25fef2f516_640.jpg",
+    "lat": 8.7587427,
+    "lon": 76.6883061,
+    "location": "Kerala",
+    "_category": "Other"
+  },
+  {
+    "id": "osm-node-2521349992",
+    "name": "Children's Park, Kadappakkada",
+    "type": "park",
+    "category": "Nature",
+    "description": "A local wellness spot",
+    "benefits": "Stress reduction, mindfulness, cultural immersion",
+    "duration": "2 hours",
+    "image": "https://pixabay.com/get/ge1ede12d86aa3ab65235d52723d9e6ee8da0d1721ed68f6e491e44d67d1788cc77e4170bdc9068618a13751ee63099ba65ffb37001d91903bf46ed36ff91ec21_640.jpg",
+    "lat": 8.8920697,
+    "lon": 76.6020549,
+    "location": "Kerala",
+    "_category": "Nature"
+  }
+]
