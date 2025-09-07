@@ -279,4 +279,3 @@ app.post("/api/chat", async (req, res) => {
 app.listen(PORT, () =>
   console.log(`Mindful Miles backend listening on ${PORT}`)
 );
-
